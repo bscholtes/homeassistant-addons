@@ -1,0 +1,8 @@
+{
+  "name": "Home Assistant Add-on",
+  "homepage": "https://github.com/bscholtes/homeassistant-addons",
+  "addons": [
+    "evcc-custom",
+  ]
+}
+
